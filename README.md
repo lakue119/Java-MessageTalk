@@ -9,9 +9,9 @@
 <img src="https://user-images.githubusercontent.com/31702431/73854233-818b8780-4875-11ea-9f44-79fc74db9c8e.jpeg" width="30%"></img>
 </div>
 
-MessageTalk App using ths Firebase.  #
-This app can chat with multiple people. Also see how many people read during the conversation.  #
-The image is stored in Firebase storage.
+MessageTalk App using ths Firebase.  
+#This app can chat with multiple people. Also see how many people read during the conversation.  
+#The image is stored in Firebase storage.
 
 
 # Program Stacks
