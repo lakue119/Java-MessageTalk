@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354675037848",
+    "firebase_url": "https://firetalk2-7348c.firebaseio.com",
+    "project_id": "firetalk2-7348c",
+    "storage_bucket": "firetalk2-7348c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354675037848:android:7c69294e914d7a230d62ed",
+        "android_client_info": {
+          "package_name": "com.example.choi.msgtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354675037848-5qt7qic9364422s667atf7jnghkif6bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.choi.msgtalk",
+            "certificate_hash": "98a4732962e2590b867ddc9643d62f2359dd8cc4"
+          }
+        },
+        {
+          "client_id": "354675037848-opg0sesv1rfgva9qn2u2cpmidkp6lmeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACcZazdqsEtMYzJYFB25bouur0BMgPWlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354675037848-opg0sesv1rfgva9qn2u2cpmidkp6lmeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
