@@ -10,7 +10,7 @@
 </div>
 
 MessageTalk App using ths Firebase.  
-#This app can chat with multiple people. Also see how many people read during the conversation.  
+This app can chat with multiple people. Also see how many people read during the conversation.  
 #The image is stored in Firebase storage.
 
 
